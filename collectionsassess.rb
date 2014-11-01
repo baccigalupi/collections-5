@@ -53,6 +53,9 @@ students = {
     }
 }
 
+# This looks great. Really love your indentation and spacing which is clear and easy to read. 
+# Can you also make this an array of hashes?
+
 puts students["John"]
 puts students["Sylwester"]
 puts students["Timonthy"]
